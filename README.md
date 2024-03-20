@@ -1,5 +1,14 @@
-### Hi there 👋
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-35-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-BsAs%20Argentina-success" />
+  <img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-brightgreen" />
+</p>
+<hr>
 
+<p align="left">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MicaelaEdith&layout=compact&langs_count=8&theme=algolia"/>
+</p>
 <!--
 **MicaelaEdith/MicaelaEdith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
