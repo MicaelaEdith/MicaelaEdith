@@ -6,8 +6,8 @@
 </p>
 <hr>
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MicaelaEdith&layout=compact&langs_count=8&theme=algolia"/>
+<p align="center">
+  <img height="220em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MicaelaEdith&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 <!--
 **MicaelaEdith/MicaelaEdith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
