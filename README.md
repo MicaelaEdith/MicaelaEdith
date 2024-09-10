@@ -6,7 +6,7 @@
 </p>
 <div align="center">
     <img height="190em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MicaelaEdith&layout=compact&langs_count=8&theme=algolia"/>
-  <div align="right">
+  <div align="center">
     <h3  align="center">### Tools 🛠️</h3>
     <img src="https://skillicons.dev/icons?i=cs,java,py,dotnet,spring,flask,maven,html,css,js,bootstrap,react,mysql,sqlite,unity,blender&perline=8"/>
   </div>
