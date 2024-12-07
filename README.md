@@ -8,6 +8,6 @@
     <img height="190em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MicaelaEdith&layout=compact&langs_count=8&theme=algolia"/>
   <div align="center">
     <h3  align="center">### Tools 🛠️</h3>
-    <img src="https://skillicons.dev/icons?i=cs,java,py,dotnet,spring,flask,maven,html,css,js,bootstrap,react,mysql,unity&perline=7"/>
+    <img src="https://skillicons.dev/icons?i=cs,java,py,dotnet,spring,flask,maven,css,js,bootstrap,react,unity&perline=6"/>
   </div>
 </div>
